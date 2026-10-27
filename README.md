@@ -90,11 +90,11 @@ A responsive authentication application built with React Native, Expo, and Fireb
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandini-behera-ops)
 
-📧 **Email:** Add your professional email address here
+📧 **Email:**nandinibehera2025@gmail.com
 
-💼 **LinkedIn:** Add your LinkedIn profile URL here
+💼 **LinkedIn:** https://www.linkedin.com/in/nandini-behera-dev/
 
-🌐 **Portfolio:** Add your portfolio URL when available
+🌐 **Portfolio:** [nandini-behera-ops.github.io ](https://nandini-behera-ops.github.io/my-portfolio/)
 
 ---
 
