@@ -36,17 +36,36 @@ I'm a Computer Science Engineering graduate passionate about building responsive
 ---
 
 ## 🚀 Featured Projects
+### 🏡 Wanderlust — Full-Stack Airbnb Clone
 
-### 🏡 Wanderlust — Airbnb Clone
-A property-listing web application inspired by Airbnb.
+A responsive property listing web application inspired by Airbnb, built to practice full-stack web development using Node.js, Express.js, MongoDB, and EJS. The project follows the MVC (Model-View-Controller) architecture and is deployed on Render.
 
-- Browse and explore property listings
-- Work with backend routes and database operations
-- Practice full-stack web development
+#### ✨ Features
 
-**Tech Stack:** JavaScript, Node.js, Express.js, MongoDB
+- 🔐 **Authentication:** User registration and login functionality.
+- 🏠 **View Listings:** Browse and view property listings.
+- ➕ **Create Listings:** Add new property listings.
+- ✏️ **Update Listings:** Edit existing listing details.
+- 🗑️ **Delete Listings:** Remove listings.
+- 🔍 **Search & Filter:** Find listings based on available filter criteria.
+- 📱 **Responsive Design:** User-friendly interface across different screen sizes.
+- 🏗️ **MVC Architecture:** Organized code structure separating models, views, and controllers.
+- 🚀 **Deployment:** Hosted on Render.
 
-🔗 [View Repository](https://github.com/nandini-behera-ops)
+#### 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, EJS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Architecture:** MVC (Model-View-Controller)
+- **Deployment:** Render
+
+#### 🔗 Project Links
+
+- **Live Demo:** https://airbnb-clone-qik4.onrender.com/
+- **Source Code:** https://github.com/nandini-behera-ops
+
+
 
 ### 🛍️ SHOPNEST
 A web development project focused on building an organized and user-friendly shopping experience.
